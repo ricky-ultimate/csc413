@@ -1,0 +1,6 @@
+[package]
+name = "signed_floating_point_parser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
